@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{27B8A316-4B8A-4BB7-B68E-BB8E0D811B72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="maiormenorcomvetor/Program.cs">
+    <Files>
+      <File FileName="maiormenorcomvetor/Program.cs" Line="9" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.maiormenorcomvetor PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/bin/Debug/netcoreapp2.1/maiormenorcomvetor.deps.json
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/bin/Debug/netcoreapp2.1/maiormenorcomvetor.runtimeconfig.json
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/bin/Debug/netcoreapp2.1/maiormenorcomvetor.runtimeconfig.dev.json
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/bin/Debug/netcoreapp2.1/maiormenorcomvetor.dll
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/bin/Debug/netcoreapp2.1/maiormenorcomvetor.pdb
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.csprojAssemblyReference.cache
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.AssemblyInfoInputs.cache
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.AssemblyInfo.cs
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.dll
+/Users/aluno/Projects/maiormenorcomvetor/maiormenorcomvetor/obj/Debug/netcoreapp2.1/maiormenorcomvetor.pdb
