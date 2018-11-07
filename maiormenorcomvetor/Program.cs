@@ -19,10 +19,7 @@ namespace maiormenorcomvetor
 
             Array.Sort(numeros);//ordenar do menor para o maior
 
-            int maior = numeros.GetUpperBound(0);
-            int menor = numeros.GetLowerBound(0);
-
-            Console.Write("Maior: {0}\nMenor: {1}", numeros[maior], numeros[menor]);
+            Console.Write("Maior: {0}\nMenor: {1}", numeros[0], numeros[numeros.Length-1]);
         }
     }
 }
