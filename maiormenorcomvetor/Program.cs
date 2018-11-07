@@ -6,35 +6,23 @@ namespace maiormenorcomvetor
     {
         static void Main(string[] args)
         {
-            int maior = 0, menor = 999999;
 
             Console.WriteLine("Informe uma quantidade: ");
-            int quantidade = Convert.ToInt32(Console.ReadLine());
+            double quantidade = Convert.ToInt32(Console.ReadLine());
 
-            int[] numeros = new int [quantidade];
+            double[] numeros = new double [Convert.ToInt32(quantidade)];
 
             for (int i = 0; i < quantidade;i++){
                 Console.WriteLine("Informe um numero: ");
                 numeros[i] = Convert.ToInt32(Console.ReadLine());
             }
 
+            Array.Sort(numeros);//ordenar do menor para o maior
 
-            for (int i = 0; i < quantidade; i++)
-            {
+            int maior = numeros.GetUpperBound(0);
+            int menor = numeros.GetLowerBound(0);
 
-                if (numeros[i] < menor)
-                {
-                    menor = numeros[i];
-                }
-                else if (numeros[i] > maior)
-                {
-                    maior = numeros[i];
-                }
-
-            }
-
-            Console.Write("Maior: {0}\nMenor: {1}",maior, menor);
-
+            Console.Write("Maior: {0}\nMenor: {1}", numeros[maior], numeros[menor]);
         }
     }
 }
